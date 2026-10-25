@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     title: 'Santa Cruz Redevelopment Services',
     description: 'Expert redevelopment consultancy for housing societies and private properties in Santa Cruz, Mumbai.',
   },
+  other: {
+    'google-site-verification': 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
