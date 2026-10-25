@@ -1,0 +1,6 @@
+{
+  "name": "Santa Cruz Redevelopment Services",
+  "description": "Expert redevelopment consultancy for housing societies and private properties in Santa Cruz, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
